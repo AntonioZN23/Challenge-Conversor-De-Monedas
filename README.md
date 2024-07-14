@@ -10,6 +10,7 @@ La propuesta de solución a este challenge se elaboró utilizando Java y API pro
 A continuación se presentan algunas de las ejecuciones de los posibles escenarios que se podrían presentar al momento de interactuar con usuarios. Se presenta al mismo tiempo un ejemplo de ejecución.
 
 En primera instancia se presenta el menú principal, el cual es fiel en diseño al propuesto en la presentación del Challenge.
+
 ![Menú del programa](https://github.com/user-attachments/assets/baeffe66-40c0-4a68-b074-469749b6ca9d)
 
 Por otro lado, se expone un ejemplo de recopilación de datos no deseados en la entrada, por lo cual se finaliza el programa y se expone el motivo por el cual se finalizó el programa.
